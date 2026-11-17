@@ -20,7 +20,7 @@ Creemos en el software como una herramienta para mejorar la productividad, facil
 
 ## Tecnologías
 
-PHP · Python . Symfony · PostgreSQL · MySQL · React · TypeScript · Docker · REST APIs · Inteligencia Artificial
+PHP · Python · Symfony · PostgreSQL · MySQL · React · TypeScript · AI · Docker · REST APIs ·
 
 ## Contacto
 
